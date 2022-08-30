@@ -21,6 +21,12 @@ O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de 
 
  Colocar em prática todo conhecimento adquirido no decorrer da trilha.
  
+ * Sprint 1 - Processos Ágeis e Fundamentos de Teste
+ * Sprint 2 - Fundamentos de Qualidade em APIs
+ * Sprint 3 - Análise e Planejamento
+ * Sprint 4 - Javascript e versionamento de código
+ * Sprint 5 - Testes de API com Postman
+ 
  ## Programas e linguagens utilizadas
  
 * [JavaScript](https://www.microsoft.com/pt-br/p/javascript/9nblggh07nrx?activetab=pivot:overviewtab)
