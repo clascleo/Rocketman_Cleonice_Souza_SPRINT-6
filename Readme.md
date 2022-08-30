@@ -33,4 +33,4 @@ Agradeço a Compass.uol por essa oportunidade.
 
 ## Direitos Autorais
 
-CompassUOL 
+![compassuol-logo-min](https://user-images.githubusercontent.com/109304734/187514276-519dd3c6-c07c-4d63-b987-f49807b25efa.png)
