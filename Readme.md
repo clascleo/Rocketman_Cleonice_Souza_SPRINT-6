@@ -4,7 +4,10 @@
 
 Olá pessoal!
 Chegamos a SPRINT 6, nela será elaborado um plano de testes com testes automatizados e relatório de execução final dos testes, usando como base a API ServeRest, disponível no link https://serverest.dev/#/.
-Aqui encontrarão: ??????????
+ O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de servir de material de estudos de testes de API.
+
+
+ Aqui encontrarão: ??????????
 
 ## Objetivo da SPRINT
 
