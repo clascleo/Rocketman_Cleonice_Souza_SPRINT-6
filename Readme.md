@@ -1,3 +1,5 @@
+![Sprint 6 projeto final](https://user-images.githubusercontent.com/109304734/187513290-3f5e55b5-1c93-4adf-b7b9-e9f768cbe3aa.png)
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/clascleo/Rocketman_Cleonice_Souza_Compass/blob/main/license)
 
 ## Introdução
