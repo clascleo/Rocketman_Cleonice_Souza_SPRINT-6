@@ -15,14 +15,16 @@ Chegamos a SPRINT 6, nela será elaborado um plano de testes com testes automati
  
  ## Programas e linguagens utilizadas
  
-* JavaScript
-* GIT
-* Postman
-* Newman
+* [JavaScript](https://www.microsoft.com/pt-br/p/javascript/9nblggh07nrx?activetab=pivot:overviewtab)
+* [GIT](https://git-scm.com/download/win)
+* [Postman](https://postman.softonic.com.br/)
+* [Newman](https://adevait.com/qa/how-to-create-elegant-html-reports-in-postman#installing-newman-and-html-reporters)
+* [Node.js](https://nodejs.org/)
 
 ## Agradecimentos
 
 Essa trilha foi especial por muitos motivos, mas principal deles foi ter conhecido pessoas muito especiais e generosas, é realmente muito agradável trabalhar ao lado de quem te impulsiona para frente. 
+
 Agradeço a Compass.uol por essa oportunidade.
 
 
