@@ -39,7 +39,7 @@ O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de 
 
 Essa trilha foi especial por muitos motivos, mas principal deles foi ter conhecido pessoas muito especiais e generosas, é realmente muito agradável trabalhar ao lado de quem te impulsiona para frente. 
 
-Agradeço a Compass.uol por essa oportunidade.
+Agradeço a [Compass.uol](https://compass.uol/en/home/) por essa oportunidade.
 
 
 ## Direitos Autorais
