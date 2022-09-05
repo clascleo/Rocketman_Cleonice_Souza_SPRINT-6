@@ -18,12 +18,9 @@ O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de 
  Aqui encontrarão: 
  
 * [Plano de Testes](https://www.canva.com/design/DAFKcY9dt9c/fdR2fjoBLY5-naQgLYUzcg/view?utm_content=DAFKcY9dt9c&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-* Testes regressivos
-* Testes de fluxo
 * [Report de execução](https://github.com/clascleo/Rocketman_Cleonice_Souza_SPRINT-6/blob/develop/NEWMAN/Newman%20print.png)
-* Análise de resultados
-* Cobertura de teste
-* Bugs encontrados
+* Análise de resultados com sugestões de melhorias e bugs encontrados
+* Cobertura de teste com Testes regressivos/ Testes de Fluxo
 * [Mapa Mental](https://github.com/clascleo/Rocketman_Cleonice_Souza_SPRINT-6/blob/develop/Mapa%20mental%20-%20API%20-%20Serverest.pdf)
 
 
