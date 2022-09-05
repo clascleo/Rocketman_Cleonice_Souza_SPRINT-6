@@ -1,25 +1,30 @@
 ---
 name: Sugestão de Melhoria
 about: Create a report to help us improve
-title: ''
+title: Melhoria
 labels: documentation
 assignees: clascleo
 
 ---
 
 **Describe the bug**
-Ao usarmos o método GET, fazendo uso do código de acesso (token) de um usuário comum (que não seja administrador), a API retorna com todas as informações de todos os usuários cadastrados, fazendo com que haja falha na segurança.
+Na descrição anterior, relatei um problema (eu considero), onde um usuário comum pode consultar a lista de usuários cadastrados e visualiza não somente a quantidade, mas também todos os dados de cada um.
+Porém o problema vai além de visualizar, essa mesma pessoa que esta fazendo a consulta (sem o código de acesso de administrador), consegue também fazer uma edição nos dados de qualquer usuário cadastrado.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Escolha opção de verbo (get) CT03 - 200 - listar usuários cadastrados
-2. Clique em "send"
-3. Retornará como resposta uma lista com todos os dados dos usuários cadastrados.
-
+1.Escolha opção de verbo (get) CT03 - 200 - listar usuários cadastrados;
+2.Clique em "send";
+3.Retornará como resposta uma lista com todos os dados dos usuários cadastrados.
+4.Escolha qualquer usuário da lista, copie e cole no "body" da sua requisição;
+5.O ID do usuário escolhido ficará na barra de endereço da requisição;
+6.Use o verbo "put", e edite os dados do usuário;
+7.Clique em "send" ;
+8.Note que a mensagem de retorno é "Registro alterado com sucesso".
 
 **Expected behavior**
-Acredito que uma lista com a quantidade de usuários seria suficiente para uma consulta onde quem o faz não é um Administrador, podendo também ser uma rota exclusiva para administrador, pois evitaria uma exposição de dados desnecessária.
+O esperado nesse caso seria um retorno com uma mensagem de rota exclusiva para administrador, com status code 403.
+ 
+Veja:
 
-Imagem da tela:
-
-![Get usuários (postman)](https://user-images.githubusercontent.com/109304734/188415219-070d4e6f-06be-4bc4-810f-cd14da052424.png)
+![Put usuários Postman](https://user-images.githubusercontent.com/109304734/188421289-a7925b7a-fb7d-4532-ad7e-95a37dffbd05.png)
