@@ -24,7 +24,7 @@ O ServeRest é uma API REST gratuita que simula uma loja virtual com intuito de 
 * Análise de resultados
 * Cobertura de teste
 * Bugs encontrados
-
+* [Mapa Mental](https://github.com/clascleo/Rocketman_Cleonice_Souza_SPRINT-6/blob/develop/Mapa%20mental%20-%20API%20-%20Serverest.pdf)
 
 ## Objetivo da SPRINT
 
