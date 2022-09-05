@@ -1,5 +1,6 @@
 ---
 name: Sugestão de Melhoria
+about: Crie um relatório para nos ajudar a melhorar
 title: Melhoria
 labels: documentation
 assignees: clascleo
