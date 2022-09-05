@@ -9,9 +9,9 @@ assignees: clascleo
 
 **Describe the bug**
 
-Na descrição anterior, relatei um problema (eu considero), onde um usuário comum pode consultar a lista de usuários cadastrados e visualiza não somente a quantidade, mas também todos os dados de cada um.
+O problema (eu considero), um usuário comum pode consultar a lista de usuários cadastrados e visualizar não somente a quantidade, mas também todos os dados de cada pessoa.
 
-Porém o problema vai além de visualizar, essa mesma pessoa que esta fazendo a consulta (sem o código de acesso de administrador), consegue também fazer uma edição nos dados de qualquer usuário cadastrado.
+O usuário que está fazendo a consulta (sem o código de acesso de administrador), consegue também fazer uma edição nos dados de qualquer usuário cadastrado.
 
 **To Reproduce**
 
